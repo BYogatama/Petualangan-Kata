@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Endless/Levels/Pegunungan.unity
+  isLoaded: 1
+  isActive: 1

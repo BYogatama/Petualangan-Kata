@@ -1,0 +1,11 @@
+Disini adalah tempat dimana\n
+Kustom List Dari Kata disimpan\n
+
+Untuk Membuat Kustom List Kata Ikuti Tahap Berikut
+
+1. Buat File Text dengan Nama "ListKata" (tanpa kutip).
+2. Pastikan format file adalah .txt.
+3. Cari Kata (dapat berupa paragraf) yang ingin dimasukan.
+4. Simpan Kata-Kata pada file "ListKata".
+
+SELAMAT BERMAIN !
