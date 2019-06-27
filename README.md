@@ -3,3 +3,5 @@
 Petulangan Kata use Procedural Content Generation to create level.
 You can try the game, by downloading it in releases.
 https://github.com/BYogatama/Petualangan-Kata/releases/
+
+Note : Only Available in Windows
